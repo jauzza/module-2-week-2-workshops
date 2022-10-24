@@ -1,0 +1,66 @@
+#container{
+    width: 935px;
+    margin: 0px;
+}
+div{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+#header{
+    width: 890px;
+    height: 100px;
+    content: cover;
+}
+#sidebar{
+    width: 180px;
+    height: 500px;
+    float: left;
+}
+#sidebartop{
+    width: 150x;
+    height: 40px;
+}
+#sidebartopleft{
+    width: 50px;
+    height: 40px;
+}
+#sidebartopright{
+    width: 50px;
+    height: 40px;
+    float: right;
+    margin: -72px 9px;
+}
+#sidebarbottom{
+    height: 100px;
+}
+#content{
+    width: 670px;
+    height: 500px;
+    float: left;
+}
+#contentleft{
+    width: 90px;
+    height: 90px;
+    float: left;
+}
+#contentright{
+    width: 90px;
+    height: 90px;
+    float: right;
+}
+#footer{
+    width: 893px;
+    height: 50px;
+    clear: left
+}
+#footerright{
+    width: 90px;
+    height: 10px;
+    float: right;
+}
+img{
+    max-width: 110%;
+    max-height: 100%;
+    margin: -10px;
+}
